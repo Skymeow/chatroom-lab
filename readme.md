@@ -1,6 +1,6 @@
 # General Assembly Instant Messenger
 
-![GAIM](http://i.giphy.com/3o6ZsX6jbTFoyV5eSc.gif)
+![GAIM](https://i.giphy.com/3o6ZsX6jbTFoyV5eSc.gif)
 
 ## Introduction
 This afternoon we are going to continue our practice with Native DOM manipulation
