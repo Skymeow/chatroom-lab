@@ -18,7 +18,7 @@ driver is writing spotting spelling/logical errors and acting as a guide.
 glad you asked, we've prepared the following for you:
 - `index.html` - boilerplate HTML file with some basic structure for your application
 - `js/main.js` - boilerplate js file for all of your code
-- `css/normalize` - normalize file to, uh well, normalize your css across browsers.
+- `css/normalize` - normalize file to normalize your css across browsers.
 If you're curious for more info you can read more about it [here](https://necolas.github.io/normalize.css/)
 - `css/main.css` - css file for all of your styles
 
