@@ -1,6 +1,6 @@
 'use strict';
 
-
+// erwrtrwterwyweryrewtrwtewrtret
 document.addEventListener('DOMContentLoaded', function(){
   var Irwin=['Hey, I hear New Hampshire is quite beautiful in the summer. Is that true?',
  'No way man, Tom Brady is the GOAT - get that trash outta here!',
